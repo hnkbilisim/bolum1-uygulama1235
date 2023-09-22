@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\HAYRI\Formlar\Bolum1-Uygulama1235\Bolum1-Uygulama1235\bin\Debug\Bolum1-Uygulama1235.exe.config
+C:\Users\User\Desktop\KORUMASIZ\HAYRI\Formlar\Bolum1-Uygulama1235\Bolum1-Uygulama1235\bin\Debug\Bolum1-Uygulama1235.exe
+C:\Users\User\Desktop\KORUMASIZ\HAYRI\Formlar\Bolum1-Uygulama1235\Bolum1-Uygulama1235\bin\Debug\Bolum1-Uygulama1235.pdb
+C:\Users\User\Desktop\KORUMASIZ\HAYRI\Formlar\Bolum1-Uygulama1235\Bolum1-Uygulama1235\obj\Debug\Bolum1-Uygulama1235.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\HAYRI\Formlar\Bolum1-Uygulama1235\Bolum1-Uygulama1235\obj\Debug\Bolum1-Uygulama1235.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\HAYRI\Formlar\Bolum1-Uygulama1235\Bolum1-Uygulama1235\obj\Debug\Bolum1_Uygulama1235.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\HAYRI\Formlar\Bolum1-Uygulama1235\Bolum1-Uygulama1235\obj\Debug\Bolum1_Uygulama1235.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\HAYRI\Formlar\Bolum1-Uygulama1235\Bolum1-Uygulama1235\obj\Debug\Bolum1-Uygulama1235.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\HAYRI\Formlar\Bolum1-Uygulama1235\Bolum1-Uygulama1235\obj\Debug\Bolum1-Uygulama1235.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\HAYRI\Formlar\Bolum1-Uygulama1235\Bolum1-Uygulama1235\obj\Debug\Bolum1-Uygulama1235.exe
+C:\Users\User\Desktop\KORUMASIZ\HAYRI\Formlar\Bolum1-Uygulama1235\Bolum1-Uygulama1235\obj\Debug\Bolum1-Uygulama1235.pdb
