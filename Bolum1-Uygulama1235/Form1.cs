@@ -19,7 +19,7 @@ namespace Bolum1_Uygulama1235
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Merhaba");
+            MessageBox.Show("Merhaba Dünya");
         }
     }
 }
